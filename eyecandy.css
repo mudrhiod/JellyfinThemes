@@ -1,0 +1,141 @@
+@import url("https://cdn.jsdelivr.net/gh/prayag17/Jellyfin-Icons/round.css");
+
+.skinHeader-withBackground,
+.dialogContentInner,
+.skinHeader.semiTransparent {
+    background-color: #18171c;
+}
+
+.backgroundContainer,
+.dialog,
+html {
+  background-color: #0f0e11;
+}
+
+.detailRibbon {
+    background: #18171c;
+}
+
+.dialog,
+.formDialogHeader:not(.formDialogHeader-clear) {
+    background-color: #1c1b21;
+}
+
+.emby-select-withcolor > option {
+    background: #1c1b21;
+}
+
+.listItem:hover {
+    background-color: #cfc7d83e;
+}
+
+.mainDrawer, .drawer-open {
+    background-color: #0f0e11;
+}
+
+.mainDrawer-scrollContainer,
+.cardText-first {
+  color: oklch(93.157% 0.00278 285.781);
+}
+
+.emby-tab-button,
+.headerRight
+.cardText-secondary {
+    color: oklch(80.502% 0.01969 282.637);
+}
+
+.playedIndicator,
+.alphaPickerButton-selected {
+  background: oklch(78.71% 0.07614 83.795);
+  color: #0f0e11;
+}
+
+.emby-input, .emby-textarea {
+    background: #241f26;
+    color: oklch(93.157% 0.00278 285.781);
+}
+
+.countIndicator {
+  background: oklch(72.785% 0.07856 77.143);
+  color: #0f0e11;
+}
+
+.inputLabelFocused,
+.selectLabelFocused {
+    color: oklch(72.785% 0.07856 77.143);
+}
+
+.itemProgressBarForeground {
+    background-color: oklch(71.271% 0.08103 345.993);
+}
+
+.emby-input:focus {
+    border-color: oklch(71.271% 0.08103 345.993);
+}
+
+.emby-select-withcolor:focus {
+    border-color: oklch(71.271% 0.08103 345.993) !important;
+}
+
+.button-link {
+    color: #FFE1C1;
+}
+
+.innerCardFooter,
+.emby-select-withcolor {
+    background: #241f26;
+}
+
+.emby-tab-button-active{
+    color: #ffca92;
+}
+
+.emby-tab-button:hover {
+    color: #cfc7d83e;
+}
+
+.button-flat:hover {
+    color: oklch(72.785% 0.07856 77.143);
+}
+
+.paper-icon-button-light:hover:not(:disabled) {
+    background-color: oklch(72.785% 0.07856 77.143 / 0.2);
+    color: oklch(72.785% 0.07856 77.143);
+}
+
+.raised {
+    background: oklch(46.963% 0.02088 289.062);
+    color: oklch(93.157% 0.00278 285.781);
+}
+
+.raised:hover {
+    background: oklch(38.009% 0.01695 290.119);
+}
+
+.button-submit {
+    background: oklch(72.785% 0.07856 77.143);
+    color: #0f0e11;
+}
+
+.button-submit:hover {
+    background: oklch(66.032% 0.09643 76.273);
+}
+
+.playstatebutton-icon-played {
+    color: oklch(70.712% 0.06975 52.907);
+}
+
+.checkboxIcon {
+    color: #0f0e11;
+}
+
+.emby-checkbox:checked + span + .checkboxOutline {
+    background-color: #C5A361 ;
+    border-color: #C5A361;
+}
+
+.mdl-slider-background-lower,
+.mdl-slider::-webkit-slider-thumb {
+    background-color: #9F8657;
+}
+/*.mdl-slider::-moz-range-thumb {background-color: #f00;} */
